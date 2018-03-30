@@ -226,6 +226,7 @@ Partial Class Form1
         Me.Label18.Name = "Label18"
         Me.Label18.Size = New System.Drawing.Size(100, 23)
         Me.Label18.TabIndex = 2
+        Me.Label18.Text = "0"
         '
         'Form1
         '
