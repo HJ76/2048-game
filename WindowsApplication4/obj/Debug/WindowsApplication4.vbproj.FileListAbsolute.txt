@@ -9,3 +9,5 @@ C:\Users\Harshit\Downloads\Documents\Visual Studio 2013\Projects\WindowsApplicat
 C:\Users\Harshit\Downloads\Documents\Visual Studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.xml
 C:\Users\Harshit\Downloads\Documents\Visual Studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
 C:\Users\Harshit\downloads\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbprojResolveAssemblyReference.cache
+C:\Users\Harshit\Downloads\Documents\Visual Studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form2.resources
+C:\Users\Harshit\Downloads\Documents\Visual Studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form3.resources

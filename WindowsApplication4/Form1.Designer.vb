@@ -75,7 +75,6 @@ Partial Class Form1
         Me.Label16.Name = "Label16"
         Me.Label16.Size = New System.Drawing.Size(40, 40)
         Me.Label16.TabIndex = 16
-        Me.Label16.Text = "Label16"
         '
         'Label1
         '
@@ -84,7 +83,6 @@ Partial Class Form1
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(40, 40)
         Me.Label1.TabIndex = 1
-        Me.Label1.Text = "Label1"
         '
         'Label15
         '
@@ -93,7 +91,6 @@ Partial Class Form1
         Me.Label15.Name = "Label15"
         Me.Label15.Size = New System.Drawing.Size(40, 40)
         Me.Label15.TabIndex = 15
-        Me.Label15.Text = "Label15"
         '
         'Label2
         '
@@ -102,7 +99,6 @@ Partial Class Form1
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(40, 40)
         Me.Label2.TabIndex = 2
-        Me.Label2.Text = "Label2"
         '
         'Label14
         '
@@ -111,7 +107,6 @@ Partial Class Form1
         Me.Label14.Name = "Label14"
         Me.Label14.Size = New System.Drawing.Size(40, 40)
         Me.Label14.TabIndex = 14
-        Me.Label14.Text = "Label14"
         '
         'Label3
         '
@@ -120,7 +115,6 @@ Partial Class Form1
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(40, 40)
         Me.Label3.TabIndex = 3
-        Me.Label3.Text = "Label3"
         '
         'Label13
         '
@@ -129,7 +123,6 @@ Partial Class Form1
         Me.Label13.Name = "Label13"
         Me.Label13.Size = New System.Drawing.Size(40, 40)
         Me.Label13.TabIndex = 13
-        Me.Label13.Text = "Label13"
         '
         'Label4
         '
@@ -138,7 +131,6 @@ Partial Class Form1
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(40, 40)
         Me.Label4.TabIndex = 4
-        Me.Label4.Text = "Label4"
         '
         'Label12
         '
@@ -147,7 +139,6 @@ Partial Class Form1
         Me.Label12.Name = "Label12"
         Me.Label12.Size = New System.Drawing.Size(40, 40)
         Me.Label12.TabIndex = 12
-        Me.Label12.Text = "Label12"
         '
         'Label5
         '
@@ -156,7 +147,6 @@ Partial Class Form1
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(40, 40)
         Me.Label5.TabIndex = 5
-        Me.Label5.Text = "Label5"
         '
         'Label11
         '
@@ -165,7 +155,6 @@ Partial Class Form1
         Me.Label11.Name = "Label11"
         Me.Label11.Size = New System.Drawing.Size(40, 40)
         Me.Label11.TabIndex = 11
-        Me.Label11.Text = "Label11"
         '
         'Label6
         '
@@ -174,7 +163,6 @@ Partial Class Form1
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(40, 40)
         Me.Label6.TabIndex = 6
-        Me.Label6.Text = "Label6"
         '
         'Label10
         '
@@ -183,7 +171,6 @@ Partial Class Form1
         Me.Label10.Name = "Label10"
         Me.Label10.Size = New System.Drawing.Size(40, 40)
         Me.Label10.TabIndex = 10
-        Me.Label10.Text = "Label10"
         '
         'Label7
         '
@@ -192,7 +179,6 @@ Partial Class Form1
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(40, 40)
         Me.Label7.TabIndex = 7
-        Me.Label7.Text = "Label7"
         '
         'Label9
         '
@@ -201,7 +187,6 @@ Partial Class Form1
         Me.Label9.Name = "Label9"
         Me.Label9.Size = New System.Drawing.Size(40, 40)
         Me.Label9.TabIndex = 9
-        Me.Label9.Text = "Label9"
         '
         'Label8
         '
@@ -210,7 +195,6 @@ Partial Class Form1
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(40, 40)
         Me.Label8.TabIndex = 8
-        Me.Label8.Text = "Label8"
         '
         'label17
         '
@@ -238,7 +222,7 @@ Partial Class Form1
         Me.Controls.Add(Me.label17)
         Me.Controls.Add(Me.Panel1)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "2048"
         Me.Panel1.ResumeLayout(False)
         Me.ResumeLayout(False)
 

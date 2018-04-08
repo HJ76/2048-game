@@ -6,7 +6,7 @@
     Dim score As Integer = 0
     Dim spot As Integer
     Dim temp As Integer
-   
+
     Private Sub updatearray()
         If a(0, 0) = 0 Then
             Label1.Text = ""
@@ -213,7 +213,7 @@
 
         Dim i As Integer = r.Next(0, 4)
         Dim j As Integer = r.Next(0, 4)
-        Dim k As Integer = r.Next(0, 2)
+        Dim k As Integer = r.Next(0, 1)
         If k = 0 Then
             a(i, j) = 2
         ElseIf k = 1 Then
@@ -221,7 +221,7 @@
         End If
         Dim i1 As Integer = r.Next(0, 4)
         Dim j1 As Integer = r.Next(0, 4)
-        Dim k1 As Integer = r.Next(0, 2)
+        Dim k1 As Integer = r.Next(0, 1)
         While i >= 0
             If i1 = i And j1 = j Then
                 i1 = r.Next(0, 3)
@@ -238,7 +238,7 @@
         End While
         updatearray()
     End Sub
-    
+
     Private Sub addnum()
         Dim i1 As Integer = r.Next(0, 4)
         Dim j1 As Integer = r.Next(0, 4)
@@ -336,7 +336,9 @@
                             Next
                         Next
                         If clow = 16 Then
-                            MsgBox("GAME OVER")
+                            Me.Hide()
+                            Form3.Show()
+
 
                         Else
                             For i1 = 0 To 3
@@ -433,7 +435,6 @@
             If temp = 16 Then
 
             Else
-
                 addnum()
             End If
             updatearray()
@@ -444,6 +445,10 @@
     End Sub
 
     Private Sub Label18_Click(sender As Object, e As EventArgs) Handles Label18.Click
+
+    End Sub
+
+    Private Sub Label3_Click(sender As Object, e As EventArgs) Handles Label3.Click
 
     End Sub
 End Class
